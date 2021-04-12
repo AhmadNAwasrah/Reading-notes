@@ -11,3 +11,5 @@
 
 # 3. Effort
 ## I have similar troubles with cycling. When my alarm goes off at 5 A.M., the thought of going out on the bike is dreadful. The temptation to stay in bed is strong
+# 4. Criticism
+## useful to review each of my days and assess how I’ve done. As I mentioned at the beginning
