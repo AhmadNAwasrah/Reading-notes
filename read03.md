@@ -72,7 +72,7 @@ that not everyone will be able to
 view all of the latest features and
 markup.
       # HTML 4 
-## With the exception of a few
+# With the exception of a few
 elements added in HTML5
 (which have been highlighted),
 the elements you have seen in
@@ -251,18 +251,17 @@ stopped many web page authors using them already.
 # Headers & Footers
    <header> <footer>
 
-   ## The <header> and <footer>
-## elements can be used for:
-## ● The main header or footer
-## that appears at the top or
-## bottom of every page on the
-## site.
-## ● A header or footer for an
-## individual <article> or
-## <section> within the page.
+    The <header> and <footer>
+ elements can be used for:
+● The## that appears at the top or
+ bottom of every page on the
+ site.
+ ● A header or footer for an
+ individual <article> or
+ <section> within the page.
 ![header and fotter ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYd7-2l5SmIpY3wlff3swts2FiyH3K9Aq0ug&usqp=CAU)
 
-## Navigation
+ Navigation
 # <nav> 
  The <nav> element is used to
 contain the major navigational
@@ -275,7 +274,7 @@ these would not be counted as
 major navigational blocks and
 therefore should not sit inside a
 <nav> element.
-## Articles 
+ Articles 
 # <article> 
 The <article> element acts as
 a container for any section of a
@@ -291,7 +290,7 @@ articles), then each individual
 article would live inside its own
 <article> element.
 
-## Article 
+ Article 
 The <aside> element has two
 purposes, depending on whether
 it is inside an <article>
@@ -315,7 +314,7 @@ sections of the site, a list of
 recent posts, a search box, or
 recent tweets by the author
 
-## Sections
+ Sections
 
 The <section> element groups
 related content together, and
@@ -338,7 +337,7 @@ page with a long article, the
 used to split the article up into
 separate sections
 
-## Heading Groups
+ Heading Groups
 
 The purpose of the <hgroup>
 element is to group together a
@@ -396,7 +395,7 @@ this example, you can see a
 <figure> has been added inside
 the <article> element.
 
- ## Sectioning Elements
+  Sectioning Elements
 
  It may seem strange to follow
 these new elements by revisiting
