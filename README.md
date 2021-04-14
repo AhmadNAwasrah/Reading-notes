@@ -10,7 +10,10 @@
 ----------------|-------------------------------------------------------|
 |Mastering Markdown |[link](https://replit.com/@Ahmadnawasrah/read01.md)
 |HTML & CSS | [link](https://replit.com/@Ahmadnawasrah/read03.md)
-|Java Secript | [link](https://replit.com/@Ahmadnawasrah/read04.md)
+|JavaSecript | [link](https://replit.com/@Ahmadnawasrah/read04.md)
+
+
+
 
 
  
