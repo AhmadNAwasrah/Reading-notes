@@ -61,7 +61,7 @@ page that the browser has created.
 
 # BASIC JAVASCRIPT INSTRUCTIONS 
 
-![image](https://tse2.mm.bing.net/th?id=OIP.bxEkHw1xewxOFjmGunb-CwHaCx&pid=Api&P=0&w=524&h=197)
+![image](https://datavisioner.net/wp-content/uploads/2020/04/javascript-illustration.png)
 
 * STATEMENTS 
 
