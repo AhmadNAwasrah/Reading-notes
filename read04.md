@@ -1,6 +1,7 @@
    # Welcome To Java Secript Cource
 
    ![image](https://tse4.mm.bing.net/th?id=OIP.Raj_6TycseAeG-qdofckiwHaDt&pid=Api&P=0&w=302&h=152)
+   
    # HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER 
    * HTML CONTENT LAYER
    * CSS PRESENTATION LAYER
@@ -61,9 +62,9 @@ page that the browser has created.
 
 # BASIC JAVASCRIPT INSTRUCTIONS 
 
-![image](https://tse2.mm.bing.net/th?id=OIP.bxEkHw1xewxOFjmGunb-CwHaCx&pid=Api&P=0&w=524&h=197)
+![image](https://datavisioner.net/wp-content/uploads/2020/04/javascript-illustration.png)
 
-* STATEMENTS 
+## STATEMENTS 
 
 A script is a series of instructions that a computer can follow one-by-one.
 Each individual instruction or step is known as a statement.
@@ -72,22 +73,17 @@ Statements should end with a semicolon.
 # JAVASCRIPT IS CASE SENSITIVE
 JavaScript is case sensitive so hourNow means
 something different to HourNow or HOURNOW. 
-* STATEMENTS ARE INSTRUCTIONS AND
-EACH ONE STARTS ON A NEW LINE 
 
-* STATEMENTS CAN BE ORGANIZED
-INTO CODE BLOCKS 
+### STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE 
+
+### STATEMENTS CAN BE ORGANIZED INTO CODE BLOCKS 
  
  # COMMENTS 
  You should write comments to explain what your code does.  
- I* Th i s script displays a greeting to the user based upon the current time.
-It is an example from JavaScript & jQuer y book *I 
+ double foroward slash in  the javaSecript 
 
 # WHAT IS A VARIABLE? 
-  A script will have to temporarily
-store the bits of information it
-needs to do its job. It can store this
-data in variables.  
+ >>> A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.  
 
 When you write JavaScript, you have to tell the
 interpreter every individual step that you want it to
@@ -95,10 +91,10 @@ perform. This sometimes involves more detail than
 you might expect.  
 
 # how to declare variables :
- var varname ; 
+ var varname 
 
  # how to assigen them variables : 
- varname=5;
+ varname=5
 
  # DATA TYPES
 
@@ -112,8 +108,7 @@ numbers.
 # STRING DATA TYPE
 The strings data type consists of
 letters and other characters.
-'H.
-1 ' Ivy! 1
+
 
 # BOOLEAN DATA TYPE
 Boolean data types can have one
@@ -122,51 +117,52 @@ true
 
 # USING A VARIABLE TO
 STORE A NUMBER  
-var price;
-var quantity;
-var total;
-price = 5;
-quantity = 14;
+var price
+var quantity
+var total
+price = 5
+quantity = 14
 
 # USING A VARIABLE TO
 STORE A STRING  
-var username;
-var message;
-username = 'Molly'; 
+var username
+var message
+username = 'Molly'
 
 # USING A VARIABLE TO
 STORE A BOOLEAN  
-var i nStock;
-var shipping;
-inStock = true;
-shipping= false;
+var i nStock
+var shipping
+inStock = true
+shipping= false
 
 # CHANGING THE VALUE
 OF A VARIABLE 
 
-var inStock;
-var shipping;
-inStock = true;
-shipping = false; 
-inStock = false;
-shipping = true; 
+var inStock
+var shipping
+inStock = true
+shipping = false 
+inStock = false
+shipping = true
 
 # RULES FOR NAMING
 VARIABLES
-* 1
+1- 
 The name must begin with
 a letter, dollar sign ($),or an
 underscore (_). It must not start
 with a number. 
 
-* 2
+2- 
 The name can contain letters,
 numbers, dollar sign ($), or an
 underscore (_). Note that you
 must not use a dash(-) or a
 period (.) in a variable name 
 
-* 3  You cannot use keywords or
+3-
+You cannot use keywords or
 reserved words. Keywords
 are special words that tell the
 interpreter to do something. For
@@ -178,7 +174,7 @@ ONLINE EXTRA
 View a full list of keywords and
 reserved words in JavaScript. 
 
-* 4
+4-
 All variables are case sensitive,
 so score and Score would be
 different variable names, but
@@ -186,7 +182,7 @@ it is bad practice to create two
 variables that have the same
 name using different cases.
 
-* 5
+5-
 Use a name that describes the
 kind of information that the
 variable stores. For example,
@@ -195,7 +191,7 @@ store a person's first name,
 l astNarne for their last name,
 and age for their age.
 
-* 6
+6-
 If your variable name is made
 up of more than one word, use a
 capital letter for the first letter of
