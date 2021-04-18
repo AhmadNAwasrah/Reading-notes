@@ -13,6 +13,8 @@
 |JavaSecript | [link](https://replit.com/@Ahmadnawasrah/read04.md)
 |How Computer Work | [link](https://replit.com/@Ahmadnawasrah/How Computers Work.md)
 |Loops | [link](https://replit.com/@Ahmadnawasrah/read05.md)
+|Functions  | [link](https://replit.com/@Ahmadnawasrah/read06.md)
+
 
 
 
