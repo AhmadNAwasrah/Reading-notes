@@ -18,7 +18,7 @@ element the rule applies to.
 The same rule can apply to
 more than one element if you
 separate the element names
-with commas.
+with commas. 
 larations indicate how
 the elements referred to in
 the selector should be styled.
