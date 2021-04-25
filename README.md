@@ -1,6 +1,7 @@
              #Welcome to Ahmad Nawasrah Web Site 
 
  This what we larn in LTUC untel now   
+ # 101 Cource
  
 
  
@@ -15,6 +16,17 @@
 |Loops | [link](https://replit.com/@Ahmadnawasrah/read05.md)
 |Functions  | [link](https://replit.com/@Ahmadnawasrah/read06.md)
 |CSS  | [link](https://replit.com/@Ahmadnawasrah/read07.md)
+|Choosing A Text Editor  | [link](https://replit.com/@Ahmadnawasrah/read08.md)
+
+# 201 Cource 
+
+|Text | [link](https://replit.com/@Ahmadnawasrah/read09.md)   
+----------------|
+|Introducing CSS  | [link](https://replit.com/@Ahmadnawasrah/read010.md)
+
+
+
+
 
 
 
