@@ -25,6 +25,7 @@
 |Introducing CSS  | [link](https://replit.com/@Ahmadnawasrah/read010.md)
 |HTML & CSS   | [link](https://replit.com/@Ahmadnawasrah/read11.md)
 |List & Boxes   | [link](https://replit.com/@Ahmadnawasrah/read12.md)
+|Links $ JS Functions   | [link](https://replit.com/@Ahmadnawasrah/read13.md)
 
 
 
