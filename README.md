@@ -20,12 +20,12 @@
 
 # 201 Cource 
 
-|Text | [link](https://replit.com/@Ahmadnawasrah/read09.md)   
+|Text | [link](read09.md)   
 ----------------|
-|Introducing CSS  | [link](https://replit.com/@Ahmadnawasrah/read010.md)
-|HTML & CSS   | [link](https://replit.com/@Ahmadnawasrah/read11.md)
-|List & Boxes   | [link](https://replit.com/@Ahmadnawasrah/read12.md)
-|Links $ JS Functions   | [link](https://replit.com/@Ahmadnawasrah/read13.md)
+|Introducing CSS  | [link](read010.md)
+|HTML & CSS   | [link](read11.md)
+|List & Boxes   | [link](read12.md)
+|Links $ JS Functions   | [link](read13.md)
 
 
 
