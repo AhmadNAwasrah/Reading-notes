@@ -25,8 +25,8 @@
 |Introducing CSS  | [link](read010.md)
 |HTML & CSS   | [link](read11.md)
 |List & Boxes   | [link](read12.md)
-|Images, Color, Text  | [link](read14.md)
-
+|Images, Color, Text | [link](read14.md)
+|Domain, Objects, and the DOM| [link](read15.md)
 
 
 
