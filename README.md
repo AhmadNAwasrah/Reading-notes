@@ -27,9 +27,11 @@
 |List & Boxes   | [link](read12.md)
 |Images, Color, Text | [link](read14.md)
 |Domain, Objects, and the DOM| [link](read15.md)
-|Tables| [link](read16.md)
-|Layout| [link](read17.md)
-|Forms| [link](read18.md)
+|Tables| [link][link](https://replit.com/@Ahmadnawasrah/read16.md)
+|Layout| [link]([link](https://replit.com/@Ahmadnawasrah/read17.md)
+|Forms| [link][link](https://replit.com/@Ahmadnawasrah/read18.md)
+
+|Error Handling & Debugging | [link](https://replit.com/@Ahmadnawasrah/read19.md)
 
 
 
