@@ -33,7 +33,8 @@
 
 |Error Handling & Debugging | [link](https://replit.com/@Ahmadnawasrah/read19.md)
 
-| Images and Practical Information | [link](https://replit.com/@Ahmadnawasrah/read020.md)
+| Images and Practical Information | [link](https://replit.com/@Ahmadnawasrah/raed20.md)
+| Chart.js, Canvas | [link](https://replit.com/@Ahmadnawasrah/raed21.md)
 
 
 
