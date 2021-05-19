@@ -27,14 +27,17 @@
 |List & Boxes   | [link](read12.md)
 |Images, Color, Text | [link](read14.md)
 |Domain, Objects, and the DOM| [link](read15.md)
-|Tables| [link][link](https://replit.com/@Ahmadnawasrah/read16.md)
-|Layout| [link]([link](https://replit.com/@Ahmadnawasrah/read17.md)
-|Forms| [link][link](https://replit.com/@Ahmadnawasrah/read18.md)
+|Tables| [link][link](read16.md)
+|Layout| [link]([link](read17.md)
+|Forms| [link][link](read18.md)
 
-|Error Handling & Debugging | [link](https://replit.com/@Ahmadnawasrah/read19.md)
+|Error Handling & Debugging | [link](read19.md)
 
-| Images and Practical Information | [link](https://replit.com/@Ahmadnawasrah/raed20.md)
-| Chart.js, Canvas | [link](https://replit.com/@Ahmadnawasrah/raed21.md)
+| Images and Practical Information | [link](raed20.md)
+| Chart.js, Canvas | [link](raed21.md)
+|  Local Storage | [link](raed22.md)
+|   Advance CSS  | [link](raed23.md)
+|  Google Learned | [link](raed24.md)
 
 
 
