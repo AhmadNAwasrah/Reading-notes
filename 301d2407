@@ -1,0 +1,57 @@
+# Rest 
+![img](https://mk0openasappvwali2jg.kinstacdn.com/wp-content/uploads/2020/05/REST-API-logo.png)
+
+## Project Aristotle’s researchers :
+
+Much of the work done at Google, and in many organizations, is done collaboratively by teams. 
+The team is the molecular unit where real production happens, where innovative ideas are conceived 
+and tested, and where employees experience most of their work. But it’s also where interpersonal 
+issues, ill-suited skill sets, and unclear group goals can hinder productivity and cause friction.
+
+Following the success of Google’s Project Oxygen research where the People Analytics team studied 
+what makes a great manager, Google researchers applied a similar method to discover the secrets of
+ effective teams at Google. Code-named Project Aristotle - a tribute to Aristotle’s quote, "the 
+ whole is greater than the sum of its parts" (as the Google researchers believed employees can
+  do more working together than alone).
+
+  The first step in answering this question of “what makes an effective team?” is to ask “what is a
+   team?” More than an existential thought exercise, actually figuring out the memberships, relationships, 
+   and responsibilities of individuals all working together is tough but critical to cracking team effectiveness.
+
+The term team can take on a wide array of meanings. Many definitions and frameworks exist, depending on task 
+interdependence, organizational status, and team tenure. At the most fundamental level, the researchers sought to
+ distinguish a “work group” from a “team:”
+
+Work groups are characterized by the least amount of interdependence. They are based on organizational or managerial
+ hierarchy. Work groups may meet periodically to hear and share information.
+
+Teams are highly interdependent - they plan work, solve problems, make decisions, and review progress in service of 
+a specific project. Team members need one another to get work done.
+
+Organizational charts only tell part of the story, so the Google research team focused on groups with truly interdependent
+ working relationships, as determined by the teams themselves. The teams studied in Project Aristotle ranged from three to 
+ fifty individuals (with a median of nine members).
+
+ Using input from executives across the globe, the research team identified 180 teams to study (115 project teams in engineering
+  and 65 pods in sales) which included a mix of high- and low-performing teams. The study tested how both team composition
+   (e.g., personality traits, sales skills, demographics on the team) and team dynamics (e.g., what it was like to work with 
+   teammates) impact team effectiveness. Ideas were pulled from existing research as well as Google’s own experience with what 
+   makes an effective team.
+
+They conducted hundreds of double-blind interviews with leaders to get a sense of what they thought drove team effectiveness.
+ The researchers then looked at existing survey data, including over 250 items from the annual employee engagement survey and
+  gDNA, Google’s longitudinal study on work and life, to see what variables might be related to effectiveness. Here are some 
+  sample items used in the study that participants were asked to agree or disagree with:
+
+Group dynamics: I feel safe expressing divergent opinions to the team.
+Skill sets: I am good at navigating roadblocks and barriers.
+Personality traits: I see myself as someone who is a reliable worker (informed by the Big Five personality assessment).
+Emotional intelligence: I am not interested in other people’s problems (informed by the Toronto Empathy Questionnaire).
+Demographic variables like tenure, level, and location were also collected.
+
+Identify dynamics of effective teams.
+With all of this data, the team ran statistical models to understand which of the many inputs collected actually impacted team effectiveness. Using over 35 different statistical models on hundreds of variables, they sought to identify factors that:
+
+impacted multiple outcome metrics, both qualitative and quantitative
+surfaced for different kinds of teams across the organization
+showed consistent, robust statistical significance

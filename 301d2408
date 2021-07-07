@@ -1,0 +1,102 @@
+## APIs / RESTful web API design 
+A RESTful API is an architectural style for an application program interface (API)
+ that uses HTTP requests to access and use data. That data can be used to GET, PUT,
+  POST and DELETE data types, which refers to the reading, updating, creating and 
+  deleting of operations concerning resources.
+  An API for a website is code that allows two software programs to communicate 
+  with each other. The API spells out the proper way for a developer to write a
+   program requesting services from an operating system or other application.
+   A RESTful API -- also referred to as a RESTful web service or REST API -- is
+    based on representational state transfer (REST), which is an architectural 
+    style and approach to communications often used in web services development.
+
+REST technology is generally preferred over other similar technologies.
+ This tends to be the case because REST uses less bandwidth, making it
+  more suitable for efficient internet usage. RESTful APIs can also be 
+  built with programming languages such as JavaScript or Python.
+
+  ![img](https://images-na.ssl-images-amazon.com/images/I/41vqFXfr%2BaL._SX381_BO1,204,203,200_.jpg)
+
+
+  ## What is REST?
+ 
+
+ REpresentational State Transfer
+REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
+
+Separation of Client and Server
+In the REST architectural style, the implementation of the client and the implementation of the server can be done independently without each knowing about the other. This means that the code on the client side can be changed at any time without affecting the operation of the server, and the code on the server side can be changed without affecting the operation of the client.
+
+As long as each side knows what format of messages to send to the other, they can be kept modular and separate. Separating the user interface concerns from the data storage concerns, we improve the flexibility of the interface across platforms and improve scalability by simplifying the server components. Additionally, the separation allows each component the ability to evolve independently.
+
+By using a REST interface, different clients hit the same REST endpoints, perform the same actions, and receive the same responses.
+
+Statelessness
+Systems that follow the REST paradigm are stateless, meaning that the server does not need to know anything about what state the client is in and vice versa. In this way, both the server and the client can understand any message received, even without seeing previous messages. This constraint of statelessness is enforced through the use of resources, rather than commands. Resources are the nouns of the Web - they describe any object, document, or thing that you may need to store or send to other services.
+
+Because REST systems interact through standard operations on resources, they do not rely on the implementation of interfaces.
+
+These constraints help RESTful applications achieve reliability, quick performance, and scalability, as components that can be managed, updated, and reused without affecting the system as a whole, even during operation of the system.
+
+Now, we’ll explore how the communication between the client and server actually happens when we are implementing a RESTful interface.
+
+Communication between Client and Server
+In the REST architecture, clients send requests to retrieve or modify resources, and servers send responses to these requests. Let’s take a look at the standard ways to make requests and send responses.
+
+Making Requests
+REST requires that a client make a request to the server in order to retrieve or modify data on the server. A request generally consists of:
+
+an HTTP verb, which defines what kind of operation to perform
+a header, which allows the client to pass along information about the request
+a path to a resource
+an optional message body containing data
+HTTP Verbs
+There are 4 basic HTTP verbs we use in requests to interact with resources in a REST system:
+
+GET — retrieve a specific resource (by id) or a collection of resources
+POST — create a new resource
+PUT — update a specific resource (by id)
+DELETE — remove a specific resource by id
+
+## The maturity model for web APIs 
+The Richardson Maturity Model (RMM) is a maturity model suggested in 2008 by
+ Leonard Richardson which classifies Web APIs based on their adherence and
+ conformity to each of the model's four levels
+
+ ## Organize the API design around resources 
+ Most modern web applications expose APIs that clients can use to interact with the application. A well-designed web API should aim to support:
+
+Platform independence. Any client should be able to call the API, regardless of how the API is implemented internally. This requires using standard protocols, and having a mechanism whereby the client and the web service can agree on the format of the data to exchange.
+
+Service evolution. The web API should be able to evolve and add functionality independently from client applications. As the API evolves, existing client applications should continue to function without modification. All functionality should be discoverable so that client applications can fully use it.
+
+This guidance describes issues that you should consider when designing a web API. 
+
+## Define API operations in terms of HTTP methods :
+ 
+
+ HTTP GET
+Use GET requests to retrieve resource representation/information only – and not to modify it in any way. As GET requests do not change the state of the resource, these are said to be safe methods. Additionally, GET APIs should be idempotent, which means that making multiple identical requests must produce the same result every time until another API (POST or PUT) has changed the state of the resource on the server.
+
+If the Request-URI refers to a data-producing process, it is the produced data which shall be returned as the entity in the response and not the source text of the process, unless that text happens to be the output of the process.
+
+For any given HTTP GET API, if the resource is found on the server, then it must return HTTP response code 200 (OK) – along with the response body, which is usually either XML or JSON content (due to their platform-independent nature).
+
+In case resource is NOT found on server then it must return HTTP response code 404 (NOT FOUND). Similarly, if it is determined that GET request itself is not correctly formed then server will return HTTP response code 400 (BAD REQUEST).
+
+Example request URIs
+HTTP GET http://www.appdomain.com/users
+HTTP GET http://www.appdomain.com/users?size=20&page=5
+HTTP GET http://www.appdomain.com/users/123
+HTTP GET http://www.appdomain.com/users/123/address
+
+HTTP POST
+Use POST APIs to create new subordinate resources, e.g., a file is subordinate to a directory containing it or a row is subordinate to a database table. When talking strictly in terms of REST, POST methods are used to create a new resource into the collection of resources.
+
+Ideally, if a resource has been created on the origin server, the response SHOULD be HTTP response code 201 (Created) and contain an entity which describes the status of the request and refers to the new resource, and a Location header.
+
+Many times, the action performed by the POST method might not result in a resource that can be identified by a URI. In this case, either HTTP response code 200 (OK) or 204 (No Content) is the appropriate response status.
+
+Responses to this method are not cacheable, unless the response includes appropriate Cache-Control or Expires header fields.
+
+Please note that POST is neither safe nor idempotent, and invoking two identical POST requests will result in two different resources containing the same information (except resource ids).
